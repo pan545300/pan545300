@@ -1,0 +1,1228 @@
+proxy-providers:
+  黑心🖤寡妇:
+    url: ""
+    type: http
+    interval: 86400
+    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
+    override:
+      additional-prefix: "[黑心🖤寡妇]"
+  紅杏云:
+    url: "https://hongxingyun10.vip/hxyunvip?token=bc036619becb3e489fba68ad2b305a57"
+    type: http
+    interval: 86400
+    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
+    override:
+      additional-prefix: "紅杏云"   
+      
+  BPB面板:
+    url: ""
+    type: http
+    interval: 86400
+    health-check: {enable: true,url: "https://www.gstatic.com/generate_204",interval: 300}
+    override:
+      additional-prefix: "BPB面板" 
+proxies:
+  - name: "\U0001F1FA\U0001F1F8US_1"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          s41rnj.dbm.tmfp4b78.4xe2qpei0.qe8wn2lt.nd0dde2r2.ha59j4y.mxo.9z5e7ejv.tigfkyysyy.6km.cm0.r0uws.nuomhg0.t61j0iy.rklqfxx.yuaae9w2etll.5ag6p2vc4i.3k4r309otv5.orm7u7eu.cacx6hhlsqxpzvzd7f0mzwfo37xr534l2i2mjjpqycd.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      s41rnj.dbm.tmfp4b78.4xe2qpei0.qe8wn2lt.nd0dde2r2.ha59j4y.mxo.9z5e7ejv.tigfkyysyy.6km.cm0.r0uws.nuomhg0.t61j0iy.rklqfxx.yuaae9w2etll.5ag6p2vc4i.3k4r309otv5.orm7u7eu.cacx6hhlsqxpzvzd7f0mzwfo37xr534l2i2mjjpqycd.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_2"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          exuajy.q0ed.qqfhtph8jfkj.9024cjchh0.tk1mze.yjf.vpw5qz.8ctv.z0mlkesv3.1ekou.p0id.kifmxsivh9g1.ji4y7v.ep9u9ktqbmj.d6n.mf9mw5.00d.ho933zbkgz4.z38a.2my.bir11k03x8nftexj8tk9poqn4loqd7tfx1ctoyxydmo67kmo9cybeeed7c4.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      exuajy.q0ed.qqfhtph8jfkj.9024cjchh0.tk1mze.yjf.vpw5qz.8ctv.z0mlkesv3.1ekou.p0id.kifmxsivh9g1.ji4y7v.ep9u9ktqbmj.d6n.mf9mw5.00d.ho933zbkgz4.z38a.2my.bir11k03x8nftexj8tk9poqn4loqd7tfx1ctoyxydmo67kmo9cybeeed7c4.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_3"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          7skotw.2k4k0.fndmoree.0xrdtf87.hb60mb.3rsfa32wmej.t0ctvpbp3.etep5iysraz.wiqf5wxz.ho7b.tpukpjrdtr.zvjo081q.9wl9z.i8yxg6bfmad.9j857px4.ge6j4g.cjdtorj6.vyw.5qp6sj.c1i.kqzpcxuaiiq2nuujkxauevofzn9whl84flt078yykqd.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      7skotw.2k4k0.fndmoree.0xrdtf87.hb60mb.3rsfa32wmej.t0ctvpbp3.etep5iysraz.wiqf5wxz.ho7b.tpukpjrdtr.zvjo081q.9wl9z.i8yxg6bfmad.9j857px4.ge6j4g.cjdtorj6.vyw.5qp6sj.c1i.kqzpcxuaiiq2nuujkxauevofzn9whl84flt078yykqd.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_4"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          0aqsb8.5btow.4mzum.jmbi6tbmxdc.udm6.ot68x3x86f2.g7il.h3ax.j6e2v527b31.eom2dhqh.vj359hk3l.4oxed4bl.w6nyexcxf.hc3k9iypo.f21g7ee686.62gjy622zxq1.8a9povs.l3gmozybw.2cdnpec0.o98tocivf.2ux7thv0ogvw2bmkoj44u8saaqu4.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      0aqsb8.5btow.4mzum.jmbi6tbmxdc.udm6.ot68x3x86f2.g7il.h3ax.j6e2v527b31.eom2dhqh.vj359hk3l.4oxed4bl.w6nyexcxf.hc3k9iypo.f21g7ee686.62gjy622zxq1.8a9povs.l3gmozybw.2cdnpec0.o98tocivf.2ux7thv0ogvw2bmkoj44u8saaqu4.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_5"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          m6nfdp.po5gyu6n.33d.z0rl9.jmx5hfso.etkbg3n83.18o05p.mk08.kqc1mavaaq.7nrv70d21.a4wacz6735m.p8im8t9ui.1zsaklsetxe.w10ld5yg.f7jt74uyba.bemcbka950x1.moll4c3dd9.vamqddzi6.tjfvlhuii58.ywjzsm.dhan9lb07frvhl1lx97jo9.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      m6nfdp.po5gyu6n.33d.z0rl9.jmx5hfso.etkbg3n83.18o05p.mk08.kqc1mavaaq.7nrv70d21.a4wacz6735m.p8im8t9ui.1zsaklsetxe.w10ld5yg.f7jt74uyba.bemcbka950x1.moll4c3dd9.vamqddzi6.tjfvlhuii58.ywjzsm.dhan9lb07frvhl1lx97jo9.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_6"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          oh0pf4.frqo26v.7vm2pm97a.a6k4g2.grl.zuqisr.89zoa7.3zo2x6mmm.7o3n54u7zhqh.d0y0c1cxp.vi1mlqr.8czfqirrwt.2uvr9jsqd7t.pqmqs8vc872o.2ntlfsj.76euai3n275.hnmdb0b2.ecj707yagti.l14i.0py5v5ytxu.pmtyiue8tzvyq7pwffgic6w.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      oh0pf4.frqo26v.7vm2pm97a.a6k4g2.grl.zuqisr.89zoa7.3zo2x6mmm.7o3n54u7zhqh.d0y0c1cxp.vi1mlqr.8czfqirrwt.2uvr9jsqd7t.pqmqs8vc872o.2ntlfsj.76euai3n275.hnmdb0b2.ecj707yagti.l14i.0py5v5ytxu.pmtyiue8tzvyq7pwffgic6w.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_7"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          0unrad.a6ycpr7hed7.0yli.tbqrrk.6hb8.ekq.ogob6qr.j4dktqgdoc4.j4pj1i.2f8icdps9.qw07.uwt.ftr4tf.85nswz.5n0kb5kois.euqzb3w5362v.np85.s3sd1a.fgfgioi.dw9ani.rxug8sgrimhma9yalzyzlqj7150o8gj2hoj49cmlij91gdyjq9uhw41d.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      0unrad.a6ycpr7hed7.0yli.tbqrrk.6hb8.ekq.ogob6qr.j4dktqgdoc4.j4pj1i.2f8icdps9.qw07.uwt.ftr4tf.85nswz.5n0kb5kois.euqzb3w5362v.np85.s3sd1a.fgfgioi.dw9ani.rxug8sgrimhma9yalzyzlqj7150o8gj2hoj49cmlij91gdyjq9uhw41d.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_8"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          rqyg8h.7ok4i1wcsmy.v7e9cbes.rsh59ssbbigl.13xs.o5b9mc3pm.ouv.saai1i9w2g.bq2jgd.61jzxn8ug310.80gsdcxm.84vxqbo.4xzs9z.rmz1yh.5hr9bq54.0efztgcnx.po6kx7suoorq.w2ls.ghwexx5aq.0wsuq95h.ok27j6q6513ytpyiy9kib58x7j8x6.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      rqyg8h.7ok4i1wcsmy.v7e9cbes.rsh59ssbbigl.13xs.o5b9mc3pm.ouv.saai1i9w2g.bq2jgd.61jzxn8ug310.80gsdcxm.84vxqbo.4xzs9z.rmz1yh.5hr9bq54.0efztgcnx.po6kx7suoorq.w2ls.ghwexx5aq.0wsuq95h.ok27j6q6513ytpyiy9kib58x7j8x6.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_9"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          cq0cs3.obmb47.ce1.bwbnjgc8z665.vgxrjbi5sk.6l25cyckdma.6a2no5hf5.fvy0r72fb6s.ml0njfgqn7.hz45hwq6.24sex5.n8y.xhff.uzujnheeek.7il6spcx.bvijmpg.th48vc.lrzg5oe6.ehov.fqw3lt3dgig.s4b88237qo8u2fm8pvayvaslrx99hcgx56.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      cq0cs3.obmb47.ce1.bwbnjgc8z665.vgxrjbi5sk.6l25cyckdma.6a2no5hf5.fvy0r72fb6s.ml0njfgqn7.hz45hwq6.24sex5.n8y.xhff.uzujnheeek.7il6spcx.bvijmpg.th48vc.lrzg5oe6.ehov.fqw3lt3dgig.s4b88237qo8u2fm8pvayvaslrx99hcgx56.nudt.edu.kg
+  - name: "\U0001F1FA\U0001F1F8US_10"
+    network: ws
+    port: 443
+    server: registry.cyou
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d342d11e-d424-4583-b36e-524ab1f0afa4
+    ws-opts:
+      headers:
+        Host: >-
+          sjvmlq.g22sdy2.s29gc8a9xk.l9673.2qswhd88pg.bobi1a50n2n.guh0oka.2v9.o4esb.mp19qz4f7nhu.30z.524.hzmdha2.jtsh86.ild1jrxyz.8f0.jdn939qclk.aekkj0.e02epnq9.ij8.icemek6vfaxz51qw9566u2d9yqgpnw6lw8wrqbgy3pbtijj9i9r5o.nudt.edu.kg
+      path: '/snippets?ip=proxyip:port(443)&nat64=6to4'
+    servername: >-
+      sjvmlq.g22sdy2.s29gc8a9xk.l9673.2qswhd88pg.bobi1a50n2n.guh0oka.2v9.o4esb.mp19qz4f7nhu.30z.524.hzmdha2.jtsh86.ild1jrxyz.8f0.jdn939qclk.aekkj0.e02epnq9.ij8.icemek6vfaxz51qw9566u2d9yqgpnw6lw8wrqbgy3pbtijj9i9r5o.nudt.edu.kg
+  - name: "\U0001F1ED\U0001F1F0HK_1"
+    network: ws
+    port: 443
+    server: hk3.kaipi.link
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: d8665d45-8103-46e9-9cb7-8902bb7559b4
+    ws-opts:
+      headers:
+        Host: hk3.kaipi.link
+      path: /texaws
+    servername: hk3.kaipi.link
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F8\U0001F1ECSG_1"
+    obfs: ''
+    obfs-password: ''
+    password: 3hszBhqVsUhqOOFWJlev6k6Tkc
+    port: 22509
+    server: 47.129.224.62
+    skip-cert-verify: true
+    sni: bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1E9\U0001F1EADE_1"
+    obfs: ''
+    obfs-password: ''
+    password: 45b46edb-679b-4ea5-befd-88c05bb94f80
+    port: 2056
+    server: de.eyucdn.xyz
+    skip-cert-verify: true
+    sni: de.eyucdn.xyz
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F8\U0001F1ECSG_2"
+    obfs: ''
+    obfs-password: ''
+    password: KYIFgW1don6L8TaDBJHynafxZ0
+    port: 4763
+    server: 47.237.23.83
+    skip-cert-verify: true
+    sni: bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F8\U0001F1ECSG_3"
+    obfs: ''
+    obfs-password: ''
+    password: 5OiuCsPmULZ0lJwts89fegLJE
+    port: 17193
+    server: 52.221.210.182
+    skip-cert-verify: true
+    sni: bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F8\U0001F1ECSG_4"
+    obfs: ''
+    obfs-password: ''
+    password: lPK6OZ9ouqyXrCghO6ohUbbN5g
+    port: 33131
+    server: 8.222.183.55
+    skip-cert-verify: true
+    sni: bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1EB\U0001F1F7FR_1"
+    obfs: ''
+    obfs-password: ''
+    password: dongtaiwang.com
+    port: 5355
+    server: 51.159.111.32
+    skip-cert-verify: true
+    sni: www.bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1ED\U0001F1F0HK_2"
+    obfs: ''
+    obfs-password: ''
+    password: L60nS04NhsoMpN2DDGbnMqLP8DY
+    port: 11243
+    server: 47.76.83.25
+    skip-cert-verify: true
+    sni: bing.com
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F3\U0001F1F1NL_1"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 35000
+    server: yapc-1.adamhayward.co.uk
+    skip-cert-verify: true
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F3\U0001F1F1NL_2"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 36300
+    server: yapc-1.adamhayward.co.uk
+    skip-cert-verify: false
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F3\U0001F1F1NL_3"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 35200
+    server: yapc-1.adamhayward.co.uk
+    skip-cert-verify: false
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+    up: ''
+  - down: ''
+    fingerprint: ''
+    name: "\U0001F1F3\U0001F1F1NL_4"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 36600
+    server: yapc-1.adamhayward.co.uk
+    skip-cert-verify: true
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+    up: ''
+  - client-fingerprint: chrome
+    flow: xtls-rprx-vision-udp443
+    http-opts:
+      headers: {}
+      path:
+        - /
+    name: "\U0001F1EC\U0001F1E7GB_1"
+    network: tcp
+    port: 35000
+    server: gzyd.cg.xxality.cn
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5c1bf6a3-d378-45c8-b1fa-f94a256380cf
+    xudp: true
+    servername: cggb.hysality.com
+  - name: "\U0001F1EB\U0001F1F7FR_2"
+    network: ws
+    port: 8080
+    server: 63.141.128.2
+    type: vless
+    udp: true
+    uuid: 78927eda-79c3-40d1-bb55-f0671939089b
+    ws-opts:
+      headers:
+        Host: b.jOin.zEdMoDeOn.oNl.
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/56.0.2924.87 Safari/537.36
+      path: >-
+        /Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    xudp: true
+    servername: b.jOin.zEdMoDeOn.oNl.
+  - name: "\U0001F1EB\U0001F1F7FR_3"
+    network: ws
+    port: 8080
+    server: 63.141.128.14
+    type: vless
+    udp: true
+    uuid: e68bc33e-7222-4125-b064-8209d71f29d9
+    ws-opts:
+      headers:
+        Host: a.joIn.zEdMoDeOn.oNl.
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; SM-G532M Build/MMB29T)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/69.0.3497.100 Mobile
+          Safari/537.36
+      path: >-
+        /Join-ZEDMODEON-ZEDMODEON-ZEDMODEON-bia-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON-ZEDMODEON
+    xudp: true
+    servername: a.joIn.zEdMoDeOn.oNl.
+  - alpn:
+      - h3
+    auth-str: dongtaiwang.com
+    auth_str: dongtaiwang.com
+    delay: 1086
+    down: '100'
+    name: "\U0001F1EB\U0001F1F7FR_4"
+    obfs: ''
+    port: 15010
+    protocol: ''
+    server: 195.154.200.40
+    skip-cert-verify: true
+    sni: apple.com
+    type: hysteria
+    up: '100'
+  - alterId: '2'
+    cipher: auto
+    name: "\U0001F1ED\U0001F1F0HK_3"
+    network: ws
+    port: 80
+    server: hkt.gotochinatown.net
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: 93fb69fc-77cf-11ee-85ee-f23c91369f2d
+    ws-opts:
+      headers:
+        Host: hkt.gotochinatown.net
+      path: /
+    xudp: true
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1NL_5"
+    network: ws
+    port: 443
+    server: 104.21.6.115
+    tls: true
+    type: vless
+    udp: true
+    uuid: 59b3242f-6e1b-45f7-a57d-183192cc87fe
+    ws-opts:
+      headers:
+        Host: avid.gorbe.store
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 6.3; WOW64) AppleWebKit/537.36 (KHTML, like
+          Gecko) Chrome/51.0.2704.63 Safari/537.36
+      path: /random
+    xudp: true
+    servername: avid.gorbe.store
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1F3\U0001F1F1NL_6"
+    network: ws
+    port: 443
+    server: 172.67.134.196
+    tls: true
+    type: vless
+    udp: true
+    uuid: 59b3242f-6e1b-45f7-a57d-183192cc87fe
+    ws-opts:
+      headers:
+        Host: avid.gorbe.store
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 5.1) AppleWebKit/537.36 (KHTML, like Gecko)
+          Chrome/49.0.2623.112 Safari/537.36
+      path: /random
+    xudp: true
+    servername: avid.gorbe.store
+  - delay: 1269
+    name: "\U0001F1E8\U0001F1E6CA_1"
+    password: 2429bee3-e0c1-47dd-b420-75e6512b184b
+    port: 30300
+    server: 40.233.102.224
+    skip-cert-verify: true
+    sni: www.bing.com
+    tfo: false
+    type: hysteria2
+  - cipher: aes-128-gcm
+    delay: 1591
+    name: "\U0001F1F8\U0001F1ECSG_5"
+    password: 01721e43-5389-4f97-b21c-900abb2bda9e
+    port: 12020
+    server: awes35lesl.blhao0o.dpdns.org
+    type: ss
+    udp: true
+  - delay: 688
+    name: "\U0001F1FA\U0001F1F8US_11"
+    obfs: salamander
+    obfs-password: 484V0vNCtIBZGmVw
+    password: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
+    port: 55210
+    ports: 50000-60000
+    server: 151.243.168.31
+    skip-cert-verify: true
+    sni: Ab.ac
+    type: hysteria2
+  - alterId: 0
+    cipher: auto
+    delay: 1888
+    name: "\U0001F1FA\U0001F1F8US_12"
+    network: ws
+    port: 443
+    server: backus1.dh03.shop
+    skip-cert-verify: true
+    tls: true
+    type: vless
+    udp: true
+    uuid: 71504eaf-29ac-4190-89d1-dd9ce2c9ee14
+    ws-opts:
+      headers:
+        Host: backus1.dh03.shop
+      path: /higate
+    servername: backus1.dh03.shop
+  - alterId: 2
+    cipher: auto
+    name: ❓Other_1
+    network: ws
+    port: 30809
+    server: v9.heduian.link
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    udp: true
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-opts:
+      headers:
+        Host: baidu.com
+      path: /oooo
+    xudp: true
+  - delay: 1048
+    name: "\U0001F1FA\U0001F1F8US_13"
+    network: ws
+    port: 80
+    server: 104.21.7.229
+    tls: false
+    type: vless
+    udp: true
+    uuid: 2cf5523e-c4e2-4e97-be1f-b9b7d356c140
+    ws-opts:
+      headers:
+        Host: aio.loophole.Biz.iD
+      path: /aioproxybot/8.215.59.6-443
+  - auth: Telegram-->@Ln2Ray
+    delay: 1488
+    name: "\U0001F1F3\U0001F1F1NL_7"
+    obfs: salamander
+    obfs-password: Telegram-->@Ln2Ray
+    password: Telegram-->@Ln2Ray
+    port: 45000
+    server: gavazn.lnmarketplace.net
+    skip-cert-verify: true
+    sni: gavazn.55994421.xyz
+    type: hysteria2
+    udp: true
+  - delay: 2649
+    name: "\U0001F1F3\U0001F1F1NL_8"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 9f7987cf-d2fd-4b99-89cf-8b3009bd4235
+    port: 33659
+    server: hl.dport.top
+    skip-cert-verify: true
+    sni: hl.dport.top
+    type: hysteria2
+    udp: true
+  - name: "\U0001F1FA\U0001F1F8US_14"
+    network: ws
+    port: 80
+    server: aio.loophole.biz.id
+    tls: false
+    type: vless
+    udp: true
+    uuid: f282b878-8711-45a1-8c69-5564172123c1
+    ws-opts:
+      headers:
+        Host: aio.loophole.biz.id
+      path: /aioproxybot/129.150.49.58-18650
+  - name: "\U0001F1E9\U0001F1EADE_2"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 3f6e4e25-9b9d-4433-8964-21fa356d8a5f
+    port: 33653
+    server: dg.dport.top
+    skip-cert-verify: true
+    sni: dg.dport.top
+    type: hysteria2
+  - auth: Yet-Another-Public-Config-1
+    delay: 1628
+    name: "\U0001F1F3\U0001F1F1NL_9"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 36400
+    server: yapc-1.adamhayward.co.uk
+    skip-cert-verify: false
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+  - name: "\U0001F1F9\U0001F1FCTW_1"
+    password: exaxgqkKkd0TAMrCxeonWg==
+    port: 1443
+    server: twmoon1-cdn-route.couldflare-cdn.com
+    skip-cert-verify: false
+    sni: twmoon1-cdn-route.couldflare-cdn.com
+    tls: true
+    type: http
+    username: mrwdfNTD8M79LCukCieldrqZWqs=
+  - cipher: aes-256-gcm
+    name: "\U0001F1EF\U0001F1F5JP_1"
+    password: 70a0b8103356
+    plugin: v2ray-plugin
+    plugin-opts:
+      host: jp5v1.lingjfjkm002.com
+      mode: websocket
+      mux: true
+      path: /bezradrqccl
+      skip-cert-verify: false
+      tls: true
+    port: 636
+    server: 137.220.142.139
+    tfo: false
+    type: ss
+  - alpn:
+      - h2
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1EB\U0001F1EEFI_1"
+    network: ws
+    port: 2087
+    server: www.researchgate.net
+    tls: true
+    type: vless
+    udp: true
+    uuid: cd7f3c2f-8d6d-4ad8-98eb-fb10e0f6da9e
+    ws-opts:
+      headers:
+        Host: interimrita.shividpolo.store
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; BLL-L22 Build/HUAWEIBLL-L22)
+          AppleWebKit/537.36 (KHTML, like Gecko) Chrome/55.0.2883.91 Mobile
+          Safari/537.36
+      path: /downloader
+      early-data-header-name: Sec-WebSocket-Protocol
+      max-early-data: 2048
+    xudp: true
+    servername: interimrita.shividpolo.store
+  - auth: Yet-Another-Public-Config-1
+    name: "\U0001F1F3\U0001F1F1NL_10"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 35200
+    server: YAPC-1.adamhayward.co.uk
+    skip-cert-verify: false
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F1FA\U0001F1F8US_15"
+    password: >-
+      mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=
+    port: 4059
+    server: pop.plus.3123.0tk8a3a1q4t94dler.com
+    type: ss
+    udp: true
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F1F8\U0001F1E8SC_1"
+    password: >-
+      mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=
+    port: 6059
+    server: pop.plus.3123.0tk8a3a1q4t94dler.com
+    type: ss
+    udp: true
+  - alterId: 2
+    cipher: auto
+    name: "\U0001F1E9\U0001F1EADE_3"
+    network: ws
+    port: 30833
+    server: v33.heduian.link
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-opts:
+      headers:
+        Host: baidu.com
+      path: /oooo
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_16"
+    network: ws
+    port: 443
+    server: 172.67.130.204
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: c226ac5d-65e9-4379-95c3-fb542bc242d8
+    ws-opts:
+      headers:
+        Host: ddDDdDDdDDF.777198.XyZ
+      path: /OjdW89Bpg4ykd4O
+    servername: ddDDdDDdDDF.777198.XyZ
+  - cipher: 2022-blake3-aes-256-gcm
+    name: "\U0001F1EC\U0001F1E7GB_2"
+    password: >-
+      mtMkp+1FttkSLmDOF9blnNMLigcCRacprQS3ry0nf3o=:JB1ueTCKNIGMbhzWNjs+0FnZjZXO3UyXcZhIJ28vifA=
+    port: 7059
+    server: pop.ultra.6341.0tk8a3a1q4t94dler.com
+    type: ss
+    udp: true
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_17"
+    network: ws
+    password: bce0c7cb-08d1-46a7-b77b-7bff8b46252f
+    port: 443
+    server: 104.21.91.180
+    skip-cert-verify: false
+    sni: XXXXxxXxXc.666461.xyZ
+    type: trojan
+    udp: true
+    ws-opts:
+      headers:
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 5.1; HUAWEI CUN-L22 Build/HUAWEICUN-L22;
+          wv) AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/62.0.3202.84 Mobile Safari/537.36
+      path: /x9F83IcyjcEyBXZBROjL3Q5vTymr
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_18"
+    network: ws
+    port: 443
+    server: 104.21.9.71
+    skip-cert-verify: false
+    tls: true
+    type: vless
+    udp: true
+    uuid: c226ac5d-65e9-4379-95c3-fb542bc242d8
+    ws-opts:
+      headers:
+        Host: ddDDdDDdDDF.777198.XyZ
+      path: /OjdW89Bpg4ykd4O
+    servername: ddDDdDDdDDF.777198.XyZ
+  - alterId: 2
+    cipher: auto
+    name: "\U0001F1F3\U0001F1F1NL_11"
+    network: ws
+    port: 30830
+    server: v30.heduian.link
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-opts:
+      headers:
+        Host: ocbc.com
+      path: /oooo
+  - name: "\U0001F1E9\U0001F1EADE_4"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 5fbe139f-c1e0-4b92-bb3c-7f68035962c3
+    port: 33653
+    server: dg.dport.top
+    skip-cert-verify: true
+    sni: dg.dport.top
+    type: hysteria2
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_19"
+    network: ws
+    port: 443
+    server: 172.67.149.202
+    tls: true
+    type: vless
+    udp: true
+    uuid: ce921385-2b31-45fe-84c5-1843e8ae845b
+    ws-opts:
+      headers:
+        Host: lllllllllllkjh.222560.xyz
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 7.0; TRT-LX2 Build/HUAWEITRT-LX2; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/59.0.3071.125 Mobile Safari/537.36
+      path: /1xrOld7e5RpK3I98dxLkez
+    xudp: true
+    servername: LlLLLlLLLLLkjh.222560.xyZ
+  - name: "\U0001F1E9\U0001F1EADE_5"
+    obfs: salamander
+    obfs-password: ZDQxZDhjZDk4ZjAwYjIwNA==
+    password: 51fff8bd-68fc-4493-a8a9-59eb0a0da563
+    port: 33653
+    server: dg.dport.top
+    skip-cert-verify: true
+    sni: dg.dport.top
+    type: hysteria2
+  - auth: Yet-Another-Public-Config-1
+    name: "\U0001F1F3\U0001F1F1NL_12"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 36600
+    server: YAPC-1.adamhayward.co.uk
+    skip-cert-verify: false
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+  - auth: Yet-Another-Public-Config-1
+    name: "\U0001F1F3\U0001F1F1NL_13"
+    obfs: salamander
+    obfs-password: Yet-Another-Public-Config-1
+    password: Yet-Another-Public-Config-1
+    port: 35000
+    server: YAPC-1.adamhayward.co.uk
+    skip-cert-verify: false
+    sni: YAPC-1.afshin.ir
+    type: hysteria2
+  - name: "\U0001F1ED\U0001F1F0HK_4"
+    network: ws
+    port: 443
+    server: nnchkclyx.codesofun.pp.ua
+    tls: true
+    type: vless
+    udp: true
+    uuid: 5f077162-99ad-424d-9f77-e5f7e37d9ef8
+    ws-opts:
+      headers:
+        Host: nnchk.codesofun.pp.ua
+      path: /ea3ac731
+    servername: nnchk.codesofun.pp.ua
+  - alterId: 2
+    cipher: auto
+    name: "\U0001F1EC\U0001F1E7GB_3"
+    network: ws
+    port: 30836
+    server: v36.heduian.link
+    skip-cert-verify: false
+    tls: false
+    type: vmess
+    uuid: cbb3f877-d1fb-344c-87a9-d153bffd5484
+    ws-opts:
+      headers:
+        Host: baidu.com
+      path: /oooo
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_20"
+    network: ws
+    port: 443
+    server: 172.67.131.76
+    tls: true
+    type: vless
+    udp: true
+    uuid: afc9d688-520a-46fa-a98d-4511d1198cdd
+    ws-opts:
+      headers:
+        Host: eeee3.222767.xyz
+        User-Agent: >-
+          Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML,
+          like Gecko) Chrome/52.0.2743.116 Safari/537.36
+      path: /Bla4bwO5lnIT6TyxDFklcPSbclvX
+    xudp: true
+    servername: EEeE3.222767.xYz
+  - alpn:
+      - http/1.1
+    client-fingerprint: chrome
+    name: "\U0001F1FA\U0001F1F8US_21"
+    network: ws
+    port: 443
+    server: 172.67.187.28
+    tls: true
+    type: vless
+    udp: true
+    uuid: a94fafdb-10d6-46c2-be8a-5c2e8358fbb0
+    ws-opts:
+      headers:
+        Host: uuuuuuuuuuggghhju.iran2035.dpdns.org
+        User-Agent: >-
+          Mozilla/5.0 (Linux; Android 6.0.1; CPH1607 Build/MMB29M; wv)
+          AppleWebKit/537.36 (KHTML, like Gecko) Version/4.0
+          Chrome/63.0.3239.111 Mobile Safari/537.36
+      path: /xeg9Fvgzc4aVkracmjyiKVby2Lp
+    xudp: true
+    servername: uuuuUuUuUUgGghHjU.iRAn2035.dpdNS.ORG
+rule-providers:
+  private:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/private.yaml
+    path: ./ruleset/private.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/cn.yaml
+    path: ./ruleset/cn_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/telegram.yaml
+    path: ./ruleset/telegram_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  google_domain:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/google.yaml
+    path: ./ruleset/google_domain.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  geolocation-!cn:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geosite/geolocation-!cn.yaml
+    path: ./ruleset/geolocation-!cn.yaml
+    behavior: domain
+    interval: 86400
+    format: yaml
+    type: http
+  cn_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/cn.yaml
+    path: ./ruleset/cn_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  telegram_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/telegram.yaml
+    path: ./ruleset/telegram_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  google_ip:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/MetaCubeX/meta-rules-dat@meta/geo/geoip/google.yaml
+    path: ./ruleset/google_ip.yaml
+    behavior: ipcidr
+    interval: 86400
+    format: yaml
+    type: http
+  bing:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Bing/Bing.yaml
+    path: ./ruleset/bing.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  copilot:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Copilot/Copilot.yaml
+    path: ./ruleset/copilot.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  claude:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Claude/Claude.yaml
+    path: ./ruleset/claude.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  bard:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/BardAI/BardAI.yaml
+    path: ./ruleset/bard.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  openai:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/OpenAI/OpenAI.yaml
+    path: ./ruleset/openai.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+  steam:
+    url: >-
+      https://testingcf.jsdelivr.net/gh/blackmatrix7/ios_rule_script@master/rule/Clash/Steam/Steam.yaml
+    path: ./ruleset/steam.yaml
+    behavior: classical
+    interval: 86400
+    format: yaml
+    type: http
+proxy-groups:
+  - icon: 'https://raw.githubusercontent.com/Orz-3/mini/master/Color/China.png'
+    name: 全球加速
+    type: select
+    include-all: true
+    tolerance: 10
+    proxies:
+      - AUTO
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+
+  - icon: 'https://raw.githubusercontent.com/Orz-3/mini/master/Color/SSID.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    name: 自动选择
+    type: select
+    proxies:
+      - AUTO
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Static.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    name: PROXY
+    type: select
+    proxies:
+      - AUTO
+      - UK Auto
+      - HK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Urltest.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    name: AUTO
+    type: url-test
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/OpenAI.png'
+    name: AIGC
+    type: select
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+    
+  - icon: 'https://gcore.jsdelivr.net/gh/Koolson/Qure/IconSet/Color/QQ.png'
+    name: QQ 聊天
+    type: url-test
+    interval: 300
+    timeout: 3000
+    url: https://www.google.com/generate_204
+    lazy: true
+    include-all: true
+    tolerance: 10
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: 'https://raw.githubusercontent.com/Lanlan13-14/Rules/refs/heads/main/icon/game.png'
+    name: 快手平台
+    type: url-test
+    include-all: true
+    tolerance: 10
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Telegram.png'
+    name: Telegram
+    type: url-test
+    include-all: true
+    tolerance: 10
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: https://gh-proxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/YouTube.png
+    name: youtube
+    type: select
+    include-all: true
+    tolerance: 10
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/GitHub.png
+    name: Github
+    type: select
+    include-all: true
+    tolerance: 10
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: https://raw.githubusercontent.com/Orz-3/mini/master/Color/Google.png
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    name: Google
+    type: select
+    include-all: true
+    tolerance: 10
+    proxies:
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+  - icon: https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)香港|Hong🇭🇰Kong|HK|\U0001F1ED\U0001F1F0"
+    name: HK Auto
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/SG.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)新加坡|🇸🇬Singapore|\U0001F1F8\U0001F1EC"
+    name: SG Auto
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/JP.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)日本|🇯🇵Japan|\U0001F1EF\U0001F1F5"
+    name: JP Auto
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/US.png'
+    include-all: true
+    exclude-filter: (?i)GB|Traffic|Expire|Premium|全球加速|频道|订阅|ISP|流量|到期|重置
+    filter: "(?i)美国|🇺🇸USA|\U0001F1FA\U0001F1F8"
+    name: US Auto
+    type: url-test
+    interval: 300
+  - icon: 'https://testingcf.jsdelivr.net/gh/Orz-3/mini@master/Color/Global.png'
+    include-all: true
+    exclude-filter: (?=.*(广港|香港|HK🇭🇰|Hong Kong|HongKong)).*$|全球加速|频道|订阅|ISP|流量|到期|重置
+    proxies:
+      - 全球加速
+      - PROXY
+      - AUTO
+      - AIGC
+      - QQ 聊天
+      - 快手平台
+      - Telegram
+      - youtube
+      - Github
+      - Google
+      - HK Auto
+      - UK Auto
+      - SG Auto
+      - JP Auto
+      - US Auto
+    name: GLOBAL
+    type: select
+  - icon: 'https://raw.githubusercontent.com/ifanrBook/ClashConfig/refs/heads/main/icon/uk.png'
+    name: UK Auto
+    type: url-test
+    include-all: true
+    tolerance: 50
+    interval: 180
+    filter: (?=.*(英国|🇬🇧|伦敦|UK|United Kingdom|London)).*$|全球加速|频道|订阅|ISP|流量|到期|重置
+UK: &UK '^(?=.*(英国|🇬🇧|伦敦|UK|United Kingdom|London)).*$'
+HK: &HK '^(?=.*((?i)🇭🇰|香港|(\b(HK|Hong)\b)))(?!.*((?i)(\b(GAME)\b))).*$'
+TW: &TW '^(?=.*((?i)🇹🇼|台湾|(\b(TW|Tai|Taiwan)\b)))(?!.*((?i)(\b(GAME)\b))).*$'
+JP: &JP '^(?=.*((?i)🇯🇵|日本|川日|东京|大阪|泉日|埼玉|(\b(JP|Japan)\b)))(?!.*((?i)(\b(GAME)\b))).*$'
+SG: &SG '^(?=.*((?i)🇸🇬|新加坡|狮|(\b(SG|Singapore)\b)))(?!.*((?i)(\b(GAME)\b))).*$'
+US: &US '^(?=.*((?i)🇺🇸|美国|波特兰|达拉斯|俄勒冈|凤凰城|费利蒙|硅谷|拉斯维加斯|洛杉矶|圣何塞|圣克拉拉|西雅图|芝加哥|(\b(US|United States)\b)(\b(GAME)\b))).*$'
+All: &All '^(?=.*(.))(?!.*((?i)(\b(USE|USED|TOTAL|Traffic|Expire|EMAIL|Panel|Channel|Author)\b|(\d{4}-\d{2}-\d{2}|\d+G)))).*$'
+name: 
+ - icon: https://gh-proxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Hong_Kong.png,
+   type: select
+   proxies: [HK-Auto, HK-FallBack, HK-LoadBalance] 
+   include-all-providers: 
+    true, filter: *HK
+ - name:
+   TaiWan, icon:
+     icon: https://gh-proxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/China.png,
+     type: select, 
+     proxies: 
+      [TW-Auto, TW-FallBack, TW-LoadBalance]
+   include-all-providers: 
+    true, filter: *TW
+ - name:
+   Japan, icon: 
+     icon: https://gh-proxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Japan.png, 
+     type: select
+     proxies: 
+      [JP-Auto, JP-FallBack, JP-LoadBalance]
+     include-all-providers:
+       true, filter: *JP
+ - name:
+   Singapore, icon:
+     icon: https://gh-proxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/Singapore.png,
+     type: select
+     proxies:
+      [SG-Auto, SG-FallBack, SG-LoadBalance]
+     include-all-providers:
+         true, filter: *SG
+ - name:
+   America, icon: 
+    https://gh-proxy.com/https://raw.githubusercontent.com/Koolson/Qure/master/IconSet/Color/United_States.png, type: select,
+    proxies:
+     [US-Auto, US-FallBack, US-LoadBalance]
+    include-all-providers:
+       true, filter: *US
+
+rules:
+  - 'PROCESS-NAME,subs-check.exe,DIRECT'
+  - 'PROCESS-NAME,subs-check,DIRECT'
+  - 'RULE-SET,private,DIRECT'
+  - 'RULE-SET,bing,AIGC'
+  - 'RULE-SET,copilot,AIGC'
+  - 'RULE-SET,bard,AIGC'
+  - 'RULE-SET,openai,AIGC'
+  - 'RULE-SET,claude,AIGC'
+  - 'RULE-SET,steam,PROXY'
+  - 'RULE-SET,telegram_domain,Telegram'
+  - 'RULE-SET,telegram_ip,Telegram'
+  - 'RULE-SET,google_domain,Google'
+  - 'RULE-SET,google_ip,Google'
+  - 'RULE-SET,geolocation-!cn,PROXY'
+  - 'RULE-SET,cn_domain,DIRECT'
+  - 'RULE-SET,cn_ip,DIRECT'
+  - 'MATCH,PROXY'
+  - 'DOMAIN,45.66.60.3,DIRECT'
