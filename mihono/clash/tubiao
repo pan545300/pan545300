@@ -6,12 +6,12 @@
 
 proxy-providers:
   
-  妖月:
+  🔥小火球🔥:
     url: "https://xhldy.yyenh.cn/api/v1/client/subscribe?token=73105e65b6ae926ccfd88ad9ecbc9692"
     type: http
     interval: 86400
     override:
-      additional-prefix: '[妖月]'
+      additional-prefix: '🔥小火球🔥'
       skip-cert-verify: true
       udp: true
     health-check:
